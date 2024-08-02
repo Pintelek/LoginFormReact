@@ -30,7 +30,7 @@ function TextField({ name, type, label, state, onChange, error }) {
             <img
               className="show-password"
               onClick={handleClick}
-              src={`public/eye${!isVisible ? '-slash' : ''}.svg`}
+              src={`src/assets/eye${!isVisible ? '-slash' : ''}.svg`}
             />
           ) : null}
         </div>
