@@ -1,7 +1,7 @@
 # LoginForm
 
 Форма входа, регистрации и восстановления пароля.
-[LoginForm](https://loginform0208.netlify.app/login)
+[LoginForm](https://loginform0208.netlify.app)
 
 **Технологии**
 
@@ -33,7 +33,7 @@
 
 **Запуск**
 
-В терминале дериктории react_project можете запустить приложение командой:
+В терминале дериктории можете запустить приложение командой:
 
 ```bash
 npm run dev
